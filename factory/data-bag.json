@@ -1,0 +1,9 @@
+{
+	"name": "data-bag",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7f82274-6f1c-4937-928a-ddefc44ff2eb",
+		"tenantId": "ba5c5283-59e9-4599-a56e-d7abc70f9633"
+	}
+}
